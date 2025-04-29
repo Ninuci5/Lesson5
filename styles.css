@@ -1,0 +1,228 @@
+.top-header
+{
+    /* Layout Properties */
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1920px;
+    height: 350px;
+    /* UI Properties */
+    background: #0020F4 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.top-nav
+{
+    /* Layout Properties */
+    display: flex;
+    margin-top: 40px;
+    margin-left: 240px;
+    width: 115px;
+    height: 65px;
+    opacity: 1;
+}
+
+.top-nav-ul
+{
+    /* Layout Properties */
+    display: flex;
+
+    margin-top: 27px;
+    margin-left: 240px;
+
+    width: 1475px;
+    height: 91px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.top-nav-ul li
+{
+    /* Layout Properties */
+    display: flex;
+    margin-left: 50px;
+    width: 100px;
+    height: 65px;
+
+    /* UI Properties */
+    opacity: 1;
+    list-style: none;
+}
+
+
+/* Layout Properties */
+.top-nav-ul a
+{
+    /* UI Properties */
+    font: normal normal normal 16px/18px Helvetica Neue;
+    letter-spacing: 0;
+    color: white;
+    text-align: left;
+    font: normal normal normal 16px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+/* Layout Properties */
+.main-img
+{
+    /* Layout Properties */
+    margin-top: -215px;
+    margin-left: 360px;
+    width: 1195px;
+    height: 600px;
+
+    /* UI Properties */
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.main-text-header
+{
+    /* Layout Properties */
+    margin-left: 360px;
+    width: 714px;
+    height: 33px;
+
+    /* UI Properties */
+    color: #171717;
+    text-align: left;
+    font: normal normal bold 28px/34px Helvetica Neue;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.main-text-section
+{
+    /* Layout Properties */
+    margin-left: 500px;
+    width: 750px;
+}
+
+.middle-images
+{
+    /* Layout Properties */
+    margin-left: 362px;
+    width: 1300px;
+}
+
+.add-info
+{
+    /* Layout Properties */
+    margin-left: auto;
+    margin-right: auto;
+    width: 341px;
+    height: 55px;
+
+    /* UI Properties */
+    background: var(--unnamed-color-0a22f4) 0% 0% no-repeat padding-box;
+    background: #0A22F4 0% 0% no-repeat padding-box;
+    border-radius: 28px;
+    opacity: 1;
+}
+
+.add-info p
+{
+    /* UI Properties */
+    text-align:center;
+    padding-top: 10px;
+    font: normal normal normal 20px/22px Helvetica Neue;
+}
+
+.bottom-footer
+{
+    /* Layout Properties */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+    width: 1920px;
+    height: 1080px;
+
+    /* UI Properties */
+    background: #0A22F4 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.bottom-footer h1
+{
+    /* Layout Properties */
+    padding-top: 275px;
+    padding-left: 240px;
+    width: 162px;
+    height: 38px;
+
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 32px/39px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.bottom-footer p
+{
+    /* Layout Properties */
+    display: flexbox;
+    padding-top: 10px;
+    padding-left: 240px;
+    width: 463px;
+    height: 99px;
+
+    /* UI Properties */
+    font: normal normal normal 16px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-align: left;
+    word-break: break-all;
+    word-wrap: break-word;
+    opacity: 1;
+}
+
+.map-img
+{
+    padding-top: 10px;
+    padding-left: 240px;
+    width: 463px;
+    height: 197px;
+    border-radius: 15px;
+}
+
+.bottom-footer-article
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 240px;
+    text-align: left;
+}
+
+.phone-img
+{
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+
+    /* UI Properties */
+    background: white;
+    border: 1px solid #0A22F4;
+    border-radius: 50px;
+    opacity: 1;
+}
+
+.bottom-footer-article-text
+{
+    padding: 50px;
+    color: white;
+}
+
+.bottom-footer-article-right
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1240px;
+    text-align: left;
+}
